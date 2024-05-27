@@ -32,7 +32,7 @@ colnames(cell_class) <- c('cell.class')
 scrna.mast <- CreateSeuratObject(counts = spatial.data.mast, meta.data = cell_class)
 
 
-
+# standard workflow
 scrna.mast <- NormalizeData(object = scrna.mast)
 scrna.mast <- FindVariableFeatures(object = scrna.mast)
 scrna.mast <- ScaleData(object = scrna.mast)
