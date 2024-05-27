@@ -1,6 +1,6 @@
 # scRNA-Analysis-
 
-This is a workflow to analyze mouse neurons taken from the hypothalamus region, which is a brain region known play a crucial role for a host of different physiological processes including thirst, sleep, hunger, mating, and much more!
+This is a workflow to analyze mouse neurons taken from the hypothalamus region (over 30000 cells), which is a brain region known play a crucial role for a host of different physiological processes including thirst, sleep, hunger, mating, and much more!
 
 I completed a differential gene expression analysis on all neurons that are positive for the opioid receptors (Delta, Kappa, and Mu). Opioid receptors are a class of seven transmembrane G protein-coupled receptors (GPCRs) that play a crucial role in mediating the body's response to a wide range of stimuli, including hormones, neurotransmitters, and drugs. I found cellular markers that potentially shed light on how these neuropeptides modulate cellular functions and therefore physiological processes for homeostasis.
 
