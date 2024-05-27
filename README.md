@@ -1,4 +1,4 @@
-# scRNA-Analysis-
+# scRNA-seq-Analysis-
 
 This is a workflow to analyze mouse neurons taken from the hypothalamus region (over 30000 cells), which is a brain region known play a crucial role for a host of different physiological processes including thirst, sleep, hunger, mating, and much more!
 
