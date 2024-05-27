@@ -13,3 +13,8 @@ Reference: https://pubmed.ncbi.nlm.nih.gov/30385464/
 Seurat Documentation (Super detailed and helpful. I recommend to use as reference/resource): 
 https://github.com/satijalab/seurat
 https://satijalab.org/seurat/
+
+![Screen Shot 2024-05-26 at 9 26 43 PM](https://github.com/cone-a/scRNA-seq-Analysis-/assets/86271932/a552f783-5bcc-4dd5-9c00-f55bb11ffe61)
+
+![Screen Shot 2024-05-26 at 9 29 39 PM](https://github.com/cone-a/scRNA-seq-Analysis-/assets/86271932/30fbe0df-6822-4e4c-a4d9-5d302590c772)
+
